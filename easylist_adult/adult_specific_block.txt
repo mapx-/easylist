@@ -195,6 +195,7 @@
 ||definebabe.com/db/images/leftnav/webcams2.png
 ||definebabe.com/db/js/pcme.js
 ||definebabe.com/sponsor/
+||definebabe.com/sponsor_
 ||definefetish.com/df/js/dpcm.js
 ||deliciousbabes.org/banner/
 ||deliciousbabes.org/media/banners/
@@ -241,6 +242,7 @@
 ||exhentai.net/img/aaf1.gif
 ||exit.macandbumble.com^
 ||extreme-board.com/bannrs/
+||extremetube.com/cdn_files/es6/dist/exbl.min.js?
 ||extremetube.com/player_related?
 ||fantasti.cc/_special/
 ||fantasti.cc/fabl.
@@ -674,6 +676,7 @@
 ||pornhub.phncdn.com/images/campaign-backgrounds/
 ||pornhub.phncdn.com/misc/xml/preroll.xml
 ||pornizer.com/_Themes/javascript/cts.js?
+||pornleech.is/pornleech_
 ||pornmade.com/images/404vz.gif
 ||pornmade.com/images/az.gif
 ||pornmade.com/images/cb
@@ -794,6 +797,7 @@
 ||sex-techniques-and-positions.com/123ima/
 ||sex-techniques-and-positions.com/banners
 ||sex.com/images/*/banner_
+||sex01.org/*.php?
 ||sex3.com/if/
 ||sex3dtoons.com/im/
 ||sexilation.com/wp-content/uploads/2013/01/Untitled-1.jpg
@@ -873,6 +877,8 @@
 ||the-feeding-tube.com^*/Topbanner.php
 ||theboys.be/nvrbl/
 ||thedoujin.com^$domain=gelbooru.com
+||thefappening.wiki^*/promo-
+||thefappening.wiki^*/promo/
 ||thefappeningblog.com/icloud9.html
 ||thefappeningblog.com/sproject/
 ||thehun.net^*/banners/
@@ -991,6 +997,7 @@
 ||xozilla.com/agent.php?spot=
 ||xozilla.com/js/pu.js
 ||xozilla.com/player/html.php?aid=
+||xpics.me/everyone.
 ||xtravids.com/pop.php
 ||xvideohost.com/hor_banner.php
 ||xvideos-free.com/d/

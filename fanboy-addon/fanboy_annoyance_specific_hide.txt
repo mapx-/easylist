@@ -703,6 +703,7 @@ globes.co.il,wireupdate.com###icons
 laboratoryequipment.com###icons-print
 javaworld.com###id_storytools_bottom
 javaworld.com###id_storytools_top
+crainsnewyork.com###idio
 csmonitor.com###igg_container
 sandiego6.com###imware
 dailyhealthpost.com,fastdiscountfinder.com###imwb_cabim_panel
@@ -953,6 +954,7 @@ ft.com###opClusterOverlay
 1up.com###openhtmlforGooglecoop
 ft.com###optimostOverlay
 guidingtech.com,ruleyourrealm.com###optincrusher
+crainsnewyork.com###outbrain
 mp4upload.com###over
 collegefashion.net###overheader
 bestdaily.co.uk,bjs.com,buffalonews.com,geekfuel.com,kveller.com,moneysavingexpert.com,myjewishlearning.com,petri.co.il,scribd.com,thewarehouse.co.nz,thinkprogress.org###overlay
@@ -1258,7 +1260,7 @@ heatworld.com###slideBoxContainer
 nymag.com###slideOutBoxContainer
 pcworld.in###slide_box
 tabletmag.com###slide_in
-africanreporter.co.za,albertonrecord.co.za,alexnews.co.za,barbertontimes.co.za,bedfordviewedenvalenews.co.za,benonicitytimes.co.za,bereamail.co.za,berryreview.com,bit.com.au,blog.bettercloud.com,boksburgadvertiser.co.za,bornrich.com,brakpanherald.co.za,business-standard.com,capricornreview.co.za,citybuzz.co.za,cjr.org,comarochronicle.co.za,corridorgazette.co.za,crunchyroll.com,dailynewsegypt.com,dailystar.com.lb,deccanherald.com,destinyconnect.com,destinyman.com,developersarena.com,do-while.com,ecofriend.com,estcourtnews.co.za,eyethunews.co.za,fotomage.com,fourwaysreview.co.za,gearburn.com,germistoncitynews.co.za,hazyviewherald.co.za,healthcommunities.com,heidelbergnigelheraut.co.za,highvelder.co.za,highwaymail.co.za,hometone.com,indiatimes.com,jagranjosh.com,joburgeastexpress.co.za,kathorusmail.co.za,kemptonexpress.co.za,knowyourmobile.com,kormorant.co.za,krugersdorpnews.co.za,ladysmithgazette.co.za,letabaherald.co.za,livemint.com,lowvelder.co.za,maifm.co.nz,maritzburgsun.co.za,memeburn.com,midrandreporter.co.za,moveon.org,newcastleadvertiser.co.za,newsok.com,northcliffmelvilletimes.co.za,northcoastcourier.co.za,northeasterntribune.co.za,northernnatalcourier.co.za,northglennews.co.za,northjersey.com,oddee.com,parenting.com,pcauthority.com.au,pcmag.com,phoenixsun.co.za,publiceyemaritzburg.co.za,randburgsun.co.za,randfonteinherald.co.za,rekordcenturion.co.za,rekordeast.co.za,rekordmoot.co.za,rekordnorth.co.za,reviewonline.co.za,risingsunchatsworth.co.za,risingsunlenasia.co.za,risingsunoverport.co.za,roodepoortnorthsider.co.za,roodepoortrecord.co.za,rosebankkillarneygazette.co.za,sandtonchronicle.co.za,southcoastherald.co.za,southcoastsun.co.za,southlandssun.co.za,sowetourban.co.za,springsadvertiser.co.za,standardmedia.co.ke,technologyreview.com,tembisan.co.za,theatlantic.com,theatlanticwire.com,thechronicleherald.ca,thedailynewsegypt.com,theedge.co.nz,thehindu.com,thehindubusinessline.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,therock.net.nz,theweek.co.uk,timesofisrael.com,tuaw.com,tucsoncitizen.com,viralnova.com,vryheidherald.co.za,washingtonexaminer.com,westside-eldos.co.za,zululandobserver.co.za###slidebox
+africanreporter.co.za,albertonrecord.co.za,alexnews.co.za,barbertontimes.co.za,bedfordviewedenvalenews.co.za,benonicitytimes.co.za,bereamail.co.za,berryreview.com,bit.com.au,blog.bettercloud.com,boksburgadvertiser.co.za,bornrich.com,brakpanherald.co.za,business-standard.com,capricornreview.co.za,citybuzz.co.za,cjr.org,comarochronicle.co.za,corridorgazette.co.za,crunchyroll.com,dailynewsegypt.com,dailystar.com.lb,deccanherald.com,destinyconnect.com,destinyman.com,developersarena.com,do-while.com,ecofriend.com,estcourtnews.co.za,eyethunews.co.za,fool.co.uk,fotomage.com,fourwaysreview.co.za,gearburn.com,germistoncitynews.co.za,hazyviewherald.co.za,healthcommunities.com,heidelbergnigelheraut.co.za,highvelder.co.za,highwaymail.co.za,hometone.com,indiatimes.com,jagranjosh.com,joburgeastexpress.co.za,kathorusmail.co.za,kemptonexpress.co.za,knowyourmobile.com,kormorant.co.za,krugersdorpnews.co.za,ladysmithgazette.co.za,letabaherald.co.za,livemint.com,lowvelder.co.za,maifm.co.nz,maritzburgsun.co.za,memeburn.com,midrandreporter.co.za,moveon.org,newcastleadvertiser.co.za,newsok.com,northcliffmelvilletimes.co.za,northcoastcourier.co.za,northeasterntribune.co.za,northernnatalcourier.co.za,northglennews.co.za,northjersey.com,oddee.com,parenting.com,pcauthority.com.au,pcmag.com,phoenixsun.co.za,publiceyemaritzburg.co.za,randburgsun.co.za,randfonteinherald.co.za,rekordcenturion.co.za,rekordeast.co.za,rekordmoot.co.za,rekordnorth.co.za,reviewonline.co.za,risingsunchatsworth.co.za,risingsunlenasia.co.za,risingsunoverport.co.za,roodepoortnorthsider.co.za,roodepoortrecord.co.za,rosebankkillarneygazette.co.za,sandtonchronicle.co.za,southcoastherald.co.za,southcoastsun.co.za,southlandssun.co.za,sowetourban.co.za,springsadvertiser.co.za,standardmedia.co.ke,technologyreview.com,tembisan.co.za,theatlantic.com,theatlanticwire.com,thechronicleherald.ca,thedailynewsegypt.com,theedge.co.nz,thehindu.com,thehindubusinessline.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,therock.net.nz,theweek.co.uk,timesofisrael.com,tuaw.com,tucsoncitizen.com,viralnova.com,vryheidherald.co.za,washingtonexaminer.com,westside-eldos.co.za,zululandobserver.co.za###slidebox
 medicalnewstoday.com###slidebox_container
 oddee.com###slidebox_left
 oddee.com###slidebox_right
@@ -2540,6 +2542,7 @@ itworld.com##.pane-itw-blocks-itw-ad10-itjobs
 fiercewireless.com##.pane-library-stack
 fiercewireless.com##.pane-pusher-ad
 searchengineland.com##.panel
+stuff.co.nz##.parsys > .parbase
 hlntv.com##.partner-right-rail
 businessinsider.com##.partner-thanks
 eater.com##.partners
@@ -3225,6 +3228,8 @@ finestdaily.com##table[width="642"]
 e-day.ro,mtlblog.com###CoverPop-cover
 news.yahoo.com###Daily-Ticket-newsletter-promo-8U
 nextshark.com###FbridgeSGWidget
+all4women.co.za###InnerSub
+all4women.co.za###SectionSub
 earthsky.org,usatoday.com###TB_overlay
 earthsky.org###TB_window
 kiplinger.com###TMFECapWidget
@@ -3545,6 +3550,7 @@ irishtimes.com##.floating_tab
 sludgefeed.com##.fm-form-container
 newsweek.com,thewirecutter.com##.follow
 macrumors.com##.follow-banner
+fool.co.uk##.fool-ecap-type-vanilla
 thefederalist.com##.footer-email
 haaretz.com##.footer-ruler
 rd.com##.footer-widgets-3
@@ -3721,7 +3727,7 @@ connectingafrica.com##.register_box
 bildderfrau.de##.remodal-overlay[style="display: block;"]
 usnews.com##.reveal-modal
 mindbodygreen.com,sidereel.com,usnews.com,wellandgood.com##.reveal-modal-bg
-legalsportsreport.com##.ribbon
+legalsportsreport.com,onlinepokerreport.com##.ribbon
 tweaktown.com##.right_subscribe
 1015soul.com,927theblock.com,92q.com,955thelou.com,boomcolumbus.com,boomindy.com,boomphilly.com,cassiuslife.com,espnrichmond.com,foxync.com,hellobeautiful.com,hiphopnc.com,hot1041stl.com,hot963.com,hothiphopdetroit.com,hotspotatl.com,ipowerrichmond.com,joycolumbus.com,kissdetroit.com,kissrichmond.com,kysdc.com,magicbaltimore.com,majic945.com,majicatl.com,mybaltimorespirit.com,myboomatl.com,mycolumbusmagic.com,mycolumbuspower.com,myhoustonmajic.com,mymajicdc.com,mypraiseatl.com,myspiritdc.com,newsone.com,newstalkcleveland.com,oldschool1053.com,praise1027detroit.com,praisebaltimore.com,praisecharlotte.com,praisecleveland.com,praisedc.com,praisehouston.com,praiseindy.com,praisephilly.com,radionowhouston.com,radionowindy.com,rnbcincy.com,rnbphilly.com,thebeatdfw.com,theboxhouston.com,thelightnc.com,tlcnaptown.com,wiznation.com,wolbbaltimore.com,woldcnews.com,wzakcleveland.com,zhiphopcleveland.com##.sailthru
 blackamericaweb.com,metro.co.uk,thepoliticalinsider.com##.sailthru-signup-widget
@@ -3731,6 +3737,7 @@ boingboing.net##.separator
 androidauthority.com##.shadowed[style="width: 320px;"]
 medicaldaily.com##.share
 shoutmeloud.com##.shoutmeloud_sidebar_optin_inr
+hotelnewsresource.com##.sidebar-block-signup
 wired.com##.sidebar-inview
 thesaturdaypaper.com.au##.sidebar-sticky--briefing
 pbs.org##.sidebar__subscribe
@@ -3860,7 +3867,7 @@ instagram.com##section > footer[class] + div[class]
 ##div > div + [aria-label="promo"][role="region"][data-ved]
 ! ---------- RSS Buttons ----------
 abovetopsecret.com###RSS
-bdnews24.com,cruisemapper.com,themeditelegraph.com,thetruthaboutcars.com##.rss
+bdnews24.com,cruisemapper.com,oki.com,themeditelegraph.com,thetruthaboutcars.com##.rss
 majornelson.com##.widget_mn_speedbump_rss
 ! Scroll to top
 voicesevas.ru###ToTop
@@ -3876,7 +3883,8 @@ xda-developers.com###btn-top
 allrecipes.com###footer_top_button
 cryptobizmagazine.com,financialexpress.com,ideaandcreativity.com,ijn.com,nationwideradiojm.com,thepatriot.com.na,tv360nigeria.com###go-top
 thecommentator.com###go_to_top
-macromill.com###pageTop
+konami.com###page-top
+macromill.com,oki.com###pageTop
 saudigazette.com.sa###pageup
 focustaiwan.tw###returnTop
 penthouse.com###scroll
@@ -3919,6 +3927,7 @@ gogoanime.se##.croll
 tusfiles.net##.fa-long-arrow-up
 eco-business.com##.footer__header__item-action
 harrods.com##.footer_top-link
+xpics.me##.gain
 samsung.com##.gb-footer__btn-top
 ciiradio.com,smutr.com##.go-up
 moneycontrol.com,rti.org.tw,voiceofbahrain.org##.gotop
@@ -3933,6 +3942,7 @@ cricketcountry.com##.next-top
 nine.com.au##.ninemsn-footer-top
 hotpepper-gourmet.com##.pageTopButton
 emb-japan.go.jp##.pagetop
+oki.com##.pagetopInner
 sexuria.com##.pull-right
 nexusmods.com##.scroll
 thehill.com##.scroll-down-to-next
@@ -3949,7 +3959,7 @@ bay.com.mt##.sm-up-container
 brecorder.com##.subhtop
 galicianfilmforum.gal##.tc-btt-wrapper
 tudorwatch.com##.tdr-footer__block-c
-abc.net.au,freeviewnz.tv,haier.com,sivtimes.com,taipeitimes.com##.top
+abc.net.au,freeviewnz.tv,haier.com,sivtimes.com,taipeitimes.com,thefappening.wiki##.top
 wbal.com##.top-link
 fstoppers.com##.top-scroll
 marybaldwin.edu##.topbutton

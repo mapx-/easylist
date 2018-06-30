@@ -2077,6 +2077,7 @@
 ###navBackToTop
 ###nino-scrollToTop
 ###onTop3
+###pageStick-Backtop-btn
 ###return-to-top
 ###sbttBacktotop
 ###scroll-to-top
@@ -2232,6 +2233,7 @@
 ##.jscroll-to-top_link
 ##.layout__scroll-to-top
 ##.link_to_top
+##.m-back-to-top
 ##.m-go-top
 ##.menu-back-to-top
 ##.mh-back-to-top

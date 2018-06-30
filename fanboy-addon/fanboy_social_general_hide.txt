@@ -898,6 +898,7 @@
 ###header-follow
 ###header-share
 ###header-social
+###header-social-apps-v2
 ###header-social-block
 ###header-social-fb
 ###header-social-icons
@@ -1280,6 +1281,7 @@
 ###reddit_social_sidebar
 ###redwaves_fbpage_widget-2
 ###reseau-social
+###reseaux_sociaux_menu
 ###reseauxsociaux
 ###reseauxsociauxHeader
 ###retele-sociale
@@ -3082,6 +3084,7 @@
 ##.article__socialButtons
 ##.article__social__link
 ##.article__social__list
+##.article__socials
 ##.article_bottom_share
 ##.article_content_share_text
 ##.article_facebook
@@ -3681,6 +3684,8 @@
 ##.comments-share
 ##.comments-social
 ##.comments__likes
+##.common-social-link
+##.common-social-list
 ##.common-ui-facebook-bottom
 ##.commonSocial
 ##.commonheader_social
@@ -6234,6 +6239,7 @@
 ##.menu-link-instagram
 ##.menu-link-twitter
 ##.menu-name-menu-social-links
+##.menu-reseaux-sociaux-container
 ##.menu-share
 ##.menu-social
 ##.menu-social-buttons-container
@@ -7058,6 +7064,7 @@
 ##.sfollow_tw
 ##.sg-facebook-btn
 ##.sg-social
+##.sg-social-media-icons
 ##.sg-twitter-btn
 ##.sg-twitter-share
 ##.sh-btn-fb
@@ -8009,6 +8016,7 @@
 ##.site-social
 ##.site-social-icon
 ##.site-social-menu
+##.site-social-networks
 ##.site-stats-fb
 ##.site-stats-tweet
 ##.site-sticky-social-right
@@ -8052,6 +8060,7 @@
 ##.sns-btns
 ##.sns-fb
 ##.sns-link
+##.sns-share
 ##.sns-tw
 ##.snsBox
 ##.snsZone

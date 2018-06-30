@@ -288,6 +288,7 @@
 ||discreetlocalgirls.com^$third-party
 ||divascam.com^$third-party
 ||divertura.com^$third-party
+||dlski.space^$third-party
 ||dofolo.ru^$third-party
 ||dosugcz.biz^$third-party
 ||double-check.com^$third-party
@@ -307,7 +308,9 @@
 ||eltepo.ru^$third-party
 ||emediawebs.com^$third-party
 ||enoratraffic.com^$third-party
+||eqfgc.com^$third-party
 ||eragi.ru^$third-party
+||ergs4.com^$third-party
 ||eroadvertising.com^$third-party
 ||erosadv.com^$third-party
 ||erotikdating.com^$third-party
@@ -395,6 +398,7 @@
 ||gunzblazingpromo.com^$third-party
 ||gzbop.com^$third-party
 ||haeg1ei.bid^$third-party
+||halileo.com^$third-party
 ||happer.info^$third-party
 ||hdat.xyz^$third-party
 ||helltraffic.com^$third-party
@@ -506,6 +510,7 @@
 ||loveadverts.com^$third-party
 ||lovecam.com.br^$third-party
 ||lovercash.com^$third-party
+||lpwre.top^$third-party
 ||lsawards.com^$third-party
 ||lucidcommerce.com^$third-party
 ||lugiy.ru^$third-party
@@ -562,6 +567,7 @@
 ||mopilod.com^$third-party
 ||morehitserver.com^$third-party
 ||move2.co^$third-party
+||mp-https.info^$third-party
 ||mp3vicio.com^$third-party
 ||mpay69.pw^$third-party
 ||mpmcash.com^$third-party
@@ -601,6 +607,7 @@
 ||oconner.biz^$third-party
 ||octopuspop.com^$third-party
 ||oddads.net^$third-party
+||odnobi.ru^$third-party
 ||odzb5nkp.com^$third-party
 ||ofapes.com^$third-party
 ||okeo.ru^$third-party
@@ -613,6 +620,7 @@
 ||otaserve.net^$third-party
 ||otherprofit.com^$third-party
 ||outster.com^$third-party
+||ovbnb.com^$third-party
 ||owlopadjet.info^$third-party
 ||owpawuk.ru^$third-party
 ||oxcluster.com^$third-party

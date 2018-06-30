@@ -1729,6 +1729,7 @@
 ||salecycle.com^$third-party
 ||salemove.com^$third-party
 ||salesgenius.com^$third-party
+||salesmanago.pl^$third-party
 ||saletrack.co.uk^$third-party
 ||sapha.com^$third-party
 ||sarevtop.com^$third-party
@@ -1827,6 +1828,7 @@
 ||skyglue.com^$third-party
 ||sl-ct5.com^$third-party
 ||slingpic.com^$third-party
+||smadex.com^$third-party
 ||smallseotools.com^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
@@ -1962,6 +1964,7 @@
 ||sxtracking.com^$third-party
 ||synergy-e.com^$third-party
 ||synergy-sync.com^$third-party
+||synerise.com^$third-party
 ||synthasite.net^$third-party
 ||sysomos.com^$third-party
 ||t-analytics.com^$third-party

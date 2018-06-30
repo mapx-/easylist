@@ -809,6 +809,7 @@ any.tv##.sm-icons
 washingtonpost.com##.small-block-grid-2
 atlantic.net##.smc-btn
 sonymobile.com##.smdw-footer-stay-connected
+enacademic.com##.smm
 pulse.com.gh,pulse.ng##.sn_published
 classicalite.com,hankooktire.com,joins.com,kdramastars.com,parentherald.com,realtytoday.com,theinvestor.co.kr,yibada.com##.sns
 econotimes.com##.snsBookmarkTop
@@ -896,7 +897,7 @@ medicaldaily.com##.tm_square
 thenextweb.com##.tnwg2-header-follow
 moviesdbz.com##.toPopup
 xbiz.com##.tool-list
-audioprointernational.com,chicagobusiness.com,mcvuk.com,pcr-online.biz##.toolbar
+audioprointernational.com,chicagobusiness.com,crainsnewyork.com,mcvuk.com,pcr-online.biz##.toolbar
 techpp.com##.toolbar-fixed
 abc.net.au,ntd.tv##.tools
 businessgreen.com,theinquirer.net##.tools-container

@@ -4702,6 +4702,7 @@
 ###ddAd
 ###ddAdZone2
 ###defer-adright
+###desktop-ad-btf
 ###desktop-aside-ad-container
 ###desktop-atf_sidebar_sticky
 ###desktop-unrec-ad
@@ -6466,6 +6467,7 @@
 ###ovAdWrap
 ###ovadsense
 ###overlay-ad-bg
+###overlay-advertising
 ###overlay_ad
 ###overlayad
 ###overlayadd
@@ -9490,6 +9492,7 @@
 ##.ad-wrapper__ad-slug
 ##.ad-x10x20x30
 ##.ad-x31-full
+##.ad-xrcol
 ##.ad-zone
 ##.ad-zone-ajax
 ##.ad-zone-container
@@ -10745,6 +10748,7 @@
 ##.adcard
 ##.adcasing
 ##.adcenter
+##.adcenterRowWrapper
 ##.adchange
 ##.adchoices
 ##.adchoices-link
@@ -18739,6 +18743,7 @@
 ##a[href="http://track.freemmo2017.com/"]
 ##a[href^=" http://ads.ad-center.com/"]
 ##a[href^=" http://n47adshostnet.com/"]
+##a[href^=" http://www.sex.com/"][href*="&utm_"]
 ##a[href^="//00ae8b5a9c1d597.com/"]
 ##a[href^="//40ceexln7929.com/"]
 ##a[href^="//5e1fcb75b6d662d.com/"]
@@ -19087,6 +19092,7 @@
 ##a[href^="https://betway.com/"][href*="&a="]
 ##a[href^="https://bs.serving-sys.com"]
 ##a[href^="https://chaturbate.com/affiliates/"]
+##a[href^="https://chaturbate.com/in/?track="]
 ##a[href^="https://click.plista.com/pets"]
 ##a[href^="https://dcs.adgear.com/clicks/"]
 ##a[href^="https://dediseedbox.com/clients/aff.php?"]
@@ -19096,11 +19102,13 @@
 ##a[href^="https://fileboom.me/pr/"]
 ##a[href^="https://go.ad2up.com/"]
 ##a[href^="https://go.onclasrv.com/"]
+##a[href^="https://go.stripchat.com/"][href*="&campaignId="]
 ##a[href^="https://intrev.co/"]
 ##a[href^="https://keep2share.cc/pr/"]
 ##a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="]
 ##a[href^="https://mk-ads.com/"]
 ##a[href^="https://paid.outbrain.com/network/redir?"]
+##a[href^="https://porndeals.com/?track="]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://redirect.ero-advertising.com/"]
 ##a[href^="https://secure.adnxs.com/clktrb?"]
@@ -19117,8 +19125,10 @@
 ##a[href^="https://windscribe.com/promo/"]
 ##a[href^="https://www.adskeeper.co.uk/"]
 ##a[href^="https://www.bebi.com"]
+##a[href^="https://www.camsoda.com/enter.php?id="]
 ##a[href^="https://www.camyou.com/?cam="][href*="&track="]
 ##a[href^="https://www.dsct1.com/"]
+##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.firstload.com/affiliate/"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
 ##a[href^="https://www.oboom.com/ad/"]
@@ -19198,7 +19208,6 @@
 ##iframe[src^="http://cdn2.adexprt.com/"]
 ##img[alt^="Fuckbook"]
 ##p[id^="div-gpt-ad-"]
-pussl3.com
 ##script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content
 ##topadblock
 ! brave browser overlay ad

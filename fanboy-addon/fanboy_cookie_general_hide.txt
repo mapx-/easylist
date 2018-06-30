@@ -564,6 +564,7 @@
 ###averto-cookies
 ###avg-cookie-bar
 ###avg-cookie-bar-holder
+###avhcookieconsent
 ###avianCookie
 ###avis-cookies
 ###avis_cockies
@@ -578,6 +579,7 @@
 ###avisoCookiesLayer
 ###aviso_cookie
 ###aviso_cookies
+###avisocoockies
 ###avisocookie
 ###avisocookies
 ###avisolegalcookies
@@ -3627,6 +3629,7 @@
 ###koekiemonster
 ###kolacici-div
 ###komunikat-cookie
+###komunikat-cookies
 ###komunikat_ciasteczka
 ###komunikat_ciastka
 ###komunikat_cookie
@@ -4975,6 +4978,7 @@
 ##.avertissementCookie
 ##.avertissementCookieContenu
 ##.avertissementCookies
+##.avhcookieconsent
 ##.avia-cookie-consent
 ##.aviso-cookies
 ##.avisoCookie
@@ -5517,6 +5521,8 @@
 ##.cookie-infos
 ##.cookie-inner
 ##.cookie-inner-container
+##.cookie-item
+##.cookie-item-protection
 ##.cookie-jar
 ##.cookie-lasche
 ##.cookie-lasche-hp
@@ -5610,6 +5616,7 @@
 ##.cookie-overlay
 ##.cookie-overlay-box
 ##.cookie-overlay-modal-box
+##.cookie-pane
 ##.cookie-panel
 ##.cookie-panel-content
 ##.cookie-panel-overlay
@@ -5778,6 +5785,7 @@
 ##.cookieBarOverlay
 ##.cookieBarReviewDesktop
 ##.cookieBarTop
+##.cookieBarWrapper
 ##.cookieBarX
 ##.cookieBox
 ##.cookieBox-wrapper
@@ -6411,6 +6419,7 @@
 ##.cookies_full
 ##.cookies_header
 ##.cookies_info
+##.cookies_kontener
 ##.cookies_law_compliance_footer
 ##.cookies_message
 ##.cookies_modal
@@ -7223,6 +7232,7 @@
 ##.msn-cookies
 ##.mt-cookie-consent-bar
 ##.mtvcookienotificationscontainer
+##.mu-cookie-box
 ##.must_show_cookie
 ##.mw-cookiewarning-container
 ##.mw-notification-tag-cookiePolicy
@@ -7592,6 +7602,7 @@
 ##.sem-cookie-notice
 ##.sets-cookie
 ##.sfs-cookie-container
+##.sg-cookie-policy-popup
 ##.sgsCookies
 ##.sh-cookie-confirmation
 ##.shareaholic-cookie-consent
@@ -7744,6 +7755,7 @@
 ##.tx-bsd-cookie
 ##.tx-it24cookies-pi1
 ##.txc_cookie_infobox
+##.txtcoockies
 ##.type-cookieacceptpage
 ##.uc-cookie
 ##.uc-cookie-block
@@ -7933,6 +7945,7 @@
 ##cookie-popup
 ##cookie-warning
 ##cookiebox
+##cookies-gdpr
 ##cookies-hint
 ##cookies-popup
 ##cookies-requirement
@@ -7947,6 +7960,7 @@
 ##div[class^="app_cmpAppGdpr-"]
 ##div[class^="app_gdpr-"]
 ##div[class^="cookie-banner"]
+##div[class^="cookie-notification_"]
 ##div[class^="cookie-ui_"]
 ##div[class^="cookieBanner_"]
 ##div[class^="cookiesAlert_"]

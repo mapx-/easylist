@@ -172,6 +172,8 @@
 .gif?pixels=
 .gif?ref=*&ev=
 .gif?track_
+.gif?uri=
+.gif?v=
 .Google.Tracker.js
 .googleanalytics.js
 .GoogleAnalytics/
@@ -2258,6 +2260,7 @@
 /ositTracker.
 /ot_e404.gif?
 /other-analitycs/*
+/ouibounce.min.js
 /ovstats.
 /ow_analytics.
 /owa.Analytics.
@@ -2330,6 +2333,7 @@
 /php-stats.phpjs.php?
 /php-stats.recjs.php?
 /php/stats.php?
+/php/stats/*
 /phpmyvisites.js
 /pic.gif?m=
 /pic.gif?url=
@@ -2366,6 +2370,7 @@
 /pix.fcg?
 /pix.fly/*
 /pix.gif?
+/pix/*&tracker=
 /pixall.min.js
 /pixel-events.
 /pixel-manager.js?
@@ -2397,6 +2402,7 @@
 /pixel?google_
 /pixel?id=
 /pixel?m=
+/pixel?sm_
 /pixel?tag=
 /pixel?type=
 /pixel_iframe.
@@ -2933,6 +2939,7 @@
 /stats/page_view_
 /stats/pgview.
 /stats/ping?
+/stats/pv.
 /stats/record.php?
 /stats/services/*
 /stats/track.asp?

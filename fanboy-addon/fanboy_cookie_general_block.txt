@@ -131,6 +131,7 @@
 /cookie.banner.
 /cookie.policy.
 /cookie.response.
+/cookie/cscript.
 /cookie/hi-
 /cookie/permissionbar-
 /cookie/permissionbar.
@@ -149,6 +150,7 @@
 /cookie_hint.
 /cookie_info.css
 /cookie_info.js
+/cookie_info_
 /cookie_information_$script
 /cookie_law.js
 /cookie_law/*
@@ -258,6 +260,9 @@
 /cookies-requirement.
 /cookies-requirement/*
 /cookies/cookie-
+/cookies/cookie.
+/cookies/cookie_
+/cookies/mpc_
 /cookies/popup.
 /cookies_acceptance.
 /cookies_auto-
@@ -364,6 +369,7 @@
 /mod_cookie/*
 /mod_cookiesaccept/*
 /mod_jbcookies/*
+/mpc_cookie_
 /mweb.cookie/*$script
 /newprivacypolicy.
 /nibirumail.cookie.min.js
@@ -390,6 +396,8 @@
 /SetCookieBanner.
 /site-privacy-notification/*
 /sni_cookie_privacy/*
+/super-cookie/*
+/superCookie-
 /tm.cookie.js
 /toucanCookie.
 /trackingProtection/*
@@ -398,6 +406,7 @@
 /twitter_cookies.
 /type-cookies.
 /ubmcookieconsent-
+/uploads/GDPR-
 /usecookies.js
 /usocookies.
 /w034CookieDirective.js

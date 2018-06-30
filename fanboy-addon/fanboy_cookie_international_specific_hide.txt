@@ -36,7 +36,7 @@ appdynamics.de##.announcement-bar
 urbia.de##.banner
 tobias-bauer.de##.ce_rsce_swissy_fixed_note
 fanbike.de##.consent
-buffalo.de,daparto.de,donaukurier.de,model-kartei.de,starcar.de##.cookie
+buffalo.de,daparto.de,donaukurier.de,model-kartei.de,pyur.com,starcar.de##.cookie
 die-linke.de,lexus.at,lexus.de##.disclaimer
 moebel-und-garten.de##.dsgvo
 sg-weber.de##.flash-info
@@ -150,7 +150,7 @@ gartneriraadgivningen.dk###infobar
 lsb.dk###notificationBar
 proff.dk##.notification
 invita.dk##.notificationbar
-dba.dk##div[style^="position: fixed; bottom: 0px;"]
+bilbasen.dk,dba.dk##div[style^="position: fixed; bottom: 0px;"]
 !
 ! ---------- Dutch ----------
 !
@@ -375,10 +375,11 @@ darksiders.pl###callout
 lot.com###cc
 bstorun.pl###comm_info
 gov.pl,hemp.pl,osnews.pl,pracuj.pl,weller.com.pl,xfutbol.pl###cookie
-alltube.tv,auchan.pl,bankmillennium.pl,dobreprogramy.pl,ekino-tv.pl,generali.pl,hi-tec.com.pl,newsweek.pl,play.pl,polsat.pl,tripolo.pl,tv4.pl,tv6.com.pl###cookies
+alltube.tv,auchan.pl,bankmillennium.pl,dobreprogramy.pl,ekino-tv.pl,generali.pl,hi-tec.com.pl,intercon.systems,newsweek.pl,play.pl,polsat.pl,tripolo.pl,tv4.pl,tv6.com.pl###cookies
 drony.net,gadzetomania.pl,komorkomania.pl,otabletach.pl###cop
 polskatimes.pl,strefabiznesu.pl###cross-dialog
 atman.pl###gbpl_oba
+eurocash.pl###info
 opteam.pl###info_c_box
 speedtest.pl###info_container
 webelite.pl###infobar
@@ -392,6 +393,7 @@ befsztyk.pl,e-zikoapteka.pl,tanie-leczenie.pl###notice_bar
 mkidn.gov.pl###pa
 zysk.com.pl###pageUpperInfo
 antyweb.pl,ingservicespolska.pl###privacy
+goldenline.pl###profiling-agreement
 naturo.pl###simple-modal
 naturo.pl###simple-modal-overlay
 lodz.pl###stpdueckmsg
@@ -404,7 +406,7 @@ o2.pl##._2_S1s
 votepush.com,zmiksowani.pl##.alert
 poznan.pl##.content-head-information
 leroymerlin.pl,otouczelnie.pl,wykop.pl##.cookie
-alergia-allegra.pl,angora.com.pl,bitbay.pl,easycomp.pl,meczyki.pl,niedziela.pl,rozklad-pkp.pl,telepolis.pl##.cookies
+alergia-allegra.pl,aliorbank.pl,angora.com.pl,bitbay.pl,easycomp.pl,meczyki.pl,niedziela.pl,pkpcargo.com,rozklad-pkp.pl,telepolis.pl##.cookies
 genetico.pl##.coologo7
 lexus-polska.pl##.disclaimer
 komornik.pl##.divModalDialog
@@ -417,8 +419,10 @@ merlin.pl##.merlin-legal-note
 merixstudio.pl##.message
 pepper.pl##.messages
 cartests.net##.messi
+goldenline.pl##.modal-backdrop
 bilkom.pl##.policy
 rmf.fm##.rodo-popup
+filmweb.pl##.rodo__accept
 elektrozysk.pl##div[style*="background:url(images/cookies_tlo.png)"]
 centrumpiwowarstwa.pl##div[style="color: gray; background-color: white; border-bottom: 1px dotted gray; padding:2px; font-size: 0.75em;"]
 devilpage.pl##div[style="padding:8px;"]
@@ -465,15 +469,16 @@ delo.si,deloindom.si,pogledi.si,polet.si,slovenskenovice.si##.notice
 ! ---------- Spanish ----------
 !
 aristeguinoticias.com###comparte
-moviles.com###cookies
+ferrovial.com,moviles.com,tecnicasreunidas.es###cookies
 ing.es,ingdirect.es###ico_banner
 mountain.es###messagebar
 emezeta.com,lolesp.com###privacy
 coches.net###yc
-lavozdegalicia.es##.alert
+amadeus.com,lavozdegalicia.es##.alert
 ebayextra.es,flooxer.com,ing.es,mountainbike.es##.cookies
 eltiempo.es##.curtain_lightbox
 bwin.es##.info-message
+enaire.es##.modal-backdrop
 !
 ! ---------- Swedish ----------
 !
@@ -509,6 +514,7 @@ morhipo.com###legal-alert
 repertuarim.com##.cookie
 arabam.com##.db.dn
 yenisafak.com##.policy
+turkuvazradyolar.com##.veriAltBar
 !
 ! ---------- Ukrainian ----------
 !

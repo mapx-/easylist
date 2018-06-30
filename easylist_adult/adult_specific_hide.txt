@@ -504,6 +504,7 @@ grandpaporntube.net##.embed_banners
 viptube.com##.envelope + div[class]
 grandpaporntube.net##.exo
 porn.com##.f-zne
+porn.com##.f-zne2
 porn.com##.f-zon
 imagepost.com##.favsites
 hardsextube.com##.featured-wrap
@@ -521,8 +522,10 @@ gotporn.com##.footer-image-contents-bl
 4tube.com##.footer-la-vane
 youjizz.com##.footer-prs
 babesandstars.com##.footer_banners
+xpics.me##.frequently
 mrskin.com##.friends-runner
 sunporno.com##.frms-block
+xpics.me##.future
 sammobile.com##.gad
 youx.xxx##.gallery-link
 youtubelike.com##.gallery-thumbs
@@ -593,6 +596,7 @@ lic.me##.miniplayer
 upornia.com##.mjs-closeandplay
 hotmovs.com,upornia.com##.mjs-closeplay
 hanksgalleries.com##.mob_vids
+xpics.me##.native
 extremetube.com##.noPopunder
 pornhub.com,tube8.com##.nonesuch
 upornia.com##.ntv-banners-container
@@ -607,7 +611,7 @@ tnaflix.com##.pInterstitial
 tnaflix.com##.pInterstitialx
 tnaflix.com##.padAdv
 redtube.com##.pageVideos > div > [class][style*="z-index:"]
-tube8.com##.partner-link
+definebabe.com,tube8.com##.partner-link
 bravotube.net##.paysite
 ah-me.com##.paysite-link
 hdzog.com##.pl_showtime1_wr2
@@ -632,7 +636,9 @@ pornhub.com##.pre-footer
 pron.tv##.premiummessages
 txxx.com##.preroll
 adultdvdtalk.com##.productinfo
-pornfun.com##.promo
+pornfun.com,xnostars.com##.promo
+thefappening.wiki##.promo-1
+thefappening.wiki##.promo-2
 porntubevidz.com##.promo-block
 nakedtube.com,pornmaki.com##.promotionbox
 nuvid.com,nuvidselect.com##.puFloatLine
@@ -669,6 +675,7 @@ porn.com,xvideos-free.com##.rmedia
 collegegrad.com##.roundedcornr_box_quad
 xxxymovies.com##.rtoptbl
 porn.com##.s-zne
+porn.com##.s-zne2
 porn.com##.s-zon
 sticking.com##.sb-box
 woodrocket.com##.sb-store
@@ -729,6 +736,7 @@ sexyandshocking.com##.sub-holder
 peepinghunter.com,simply-hentai.com##.superbanner
 porndaddy.us##.svd
 porn.com##.t-zne
+porn.com##.t-zne2
 dickbig.net##.t_14
 intporn.com##.tagcloudlink.level4
 amateuralbum.net##.tb3
@@ -823,20 +831,20 @@ extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xv
 extremetube.com,pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xtube.com,xvideos.com,youjizz.com,youporn.com,youporngay.com##[style*="height: 330px;"]
 sexyclips.org##[style="text-align: center; width: 1000px; height: 250px;"]
 exgirlfriendmarket.com##[width="728"][height="150"]
-asspoint.com,babepedia.com,babesource.com,dbnaked.com,gaytube.com,gfycatporn.com,girlsnaked.net,mansurfer.com,newpornstarblogs.com,pornoxo.com,pornpicture.org,pornstarchive.com,redtube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,starcelebs.com,the-new-lagoon.com,tube8.com,vporn.com,xxxhdd.com,youjizz.com,youporn.com,yourdailypornstars.com##a[href*=".com/track/"]
+asspoint.com,babepedia.com,babesource.com,dbnaked.com,definebabe.com,gaytube.com,gfycatporn.com,girlsnaked.net,mansurfer.com,newpornstarblogs.com,pichunter.com,pornoxo.com,pornpicture.org,pornstarchive.com,redtube.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,starcelebs.com,the-new-lagoon.com,theanalist.info,tube8.com,vporn.com,xxxhdd.com,youjizz.com,youporn.com,yourdailypornstars.com##a[href*=".com/track/"]
 pornhub.com##a[href*=".download/"]
 redtube.com##a[href*=".hop.clickbank.net"]
 boysfood.com##a[href*=".php"]
 keezmovies.com##a[href*="/affiliates/idevaffiliate.php?"]
 nude.hu##a[href*="/click/"]
 gaytube.com,redtube.com,shemaletubevideos.com,therealpornwikileaks.com,xhamster.com##a[href*="/go.php?"]
-monstercockz.com,xxxhdd.com##a[href*="/go/"]
+monstercockz.com,theanalist.info,xxxhdd.com##a[href*="/go/"]
 sexyandfunny.com,yourdailypornstars.com##a[href*="/out.php?"]
 badjojo.com##a[href*="/out.php?siteid=13&id=0&url=http%3A%2F%2Fsyndication.traffichaus.com"]
 mansurfer.com##a[href*="/out/"]
 avgle.com##a[href*="/redirect"]
 celebrity-slips.com##a[href*="?_atc="]
-gotporn.com,katestube.com,pron.tv,spankbang.com##a[href*="?ats="]
+gotporn.com,katestube.com,pron.tv,spankbang.com,xnostars.com##a[href*="?ats="]
 redtube.com,thumbzilla.com##a[href*="?coupon="]
 redtube.com##a[href*="?link_id="][href*="&tracker_id="]
 pornhub.com##a[href*="abbp"]
@@ -933,7 +941,6 @@ thefappeningblog.com##a[href^="https://porndabster.com/?utm_"]
 spankbang.com##a[href^="https://porngames.adult/"]
 rule34.xxx##a[href^="https://rule34.xxx/c.html"]
 fantasti.cc##a[href^="https://syndication.traffichaus.com/"]
-camwhores.tv##a[href^="https://www.camsoda.com/enter.php?id="]
 celebrity-slips.com##a[href^="https://www.celebrity-slips.com/rd/"]
 gotporn.com##a[href^="https://www.gotporn.com/click.php?id="]
 avn.com,penthouse.com##a[href^="https://www.myfreecams.com/"][href*="&track="]
